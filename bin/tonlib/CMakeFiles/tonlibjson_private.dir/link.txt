@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtonlibjson_private.a  CMakeFiles/tonlibjson_private.dir/tonlib/ClientJson.cpp.o
+/usr/bin/ranlib libtonlibjson_private.a

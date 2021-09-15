@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtonlibjson_static.a  CMakeFiles/tonlibjson_static.dir/tonlib/tonlib_client_json.cpp.o
+/usr/bin/ranlib libtonlibjson_static.a
